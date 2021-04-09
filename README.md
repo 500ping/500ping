@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thang, you can call me 500PING</h1>
-<h3 align="center">Just a Dev from VIET NAM</h3>
+<h3 align="center">Just a Coder from VIET NAM</h3>
 
 - 🌱 I’m currently learning: **Python, Django, Odoo, Docker...**
 
