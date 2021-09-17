@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning: **Python, Django, Odoo, Docker...**
 
-- 📝 I regularly write articles on: [500ping.com/](http://500ping.com/blog/)
+- 📝 I regularly write articles on: [500ping.com](http://500ping.com)
 
 - 📫 How to reach me: **500ping.work@gmail.com**
 
