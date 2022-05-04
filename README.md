@@ -9,7 +9,7 @@
 
 - 📄 Know about my experiences: [500ping.com/cv/](http://500ping.com/cv/)
 
-- ⚡ Fun fact: **Why 500PING? When I was a student I loved playing online games, especially league of legends, but because my network connection was quite poor, sometimes my ping went up to 500, so ... (Google Translate)**
+- ⚡ Fun fact: **Why 500PING? When I was a student I loved playing online games, especially league of legends, but because my network connection was quite poor, sometimes my ping went up to 500, so ... **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
