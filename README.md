@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning: **Python, Django, Odoo, Docker...**
 
-- 📝 I regularly write articles on: [500ping.com](http://500ping.com)
+- 📝 I regularly write articles on: [500ping.com](http://500ping.com#blog)
 
 - 📫 How to reach me: **500ping.work@gmail.com**
 
-- 📄 Know about my experiences: [500ping.com/cv/](http://500ping.com/cv/)
+- 📄 Know about my experiences: [500ping.com](http://500ping.com/)
 
 - ⚡ Fun fact: **Why 500PING? When I was a student I loved playing online games, especially league of legends, but because my network connection was quite poor, sometimes my ping went up to 500, so ...**
 
